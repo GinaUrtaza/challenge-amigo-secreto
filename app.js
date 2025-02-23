@@ -19,3 +19,15 @@ function agregarAmigo() {
     actualizarListaAmigos();
     limpiarCaja();
 }
+
+function actualizarListaAmigos() {
+    let listaAmigos = document.getElementById("listaAmigos");
+    listaAmigos.innerHTML = "";
+    amigos.forEach((amigo) => {
+        listaAmigos.innerHTML += `<li>${amigo}</li>`;
+    });
+}
+
+function limpiarCaja() {
+    document.getElementById("amigo").value = "";
+}
