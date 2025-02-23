@@ -31,3 +31,16 @@ function actualizarListaAmigos() {
 function limpiarCaja() {
     document.getElementById("amigo").value = "";
 }
+
+function sortearAmigo() {
+    if (amigos.length <2) {
+        alert("No hay suficientes amigos para sortear");
+        return;
+    }
+
+    let amigoSorteado = amigos[Math.floor(Math.random() * amigos.length)];
+
+    let resultado = document.getElementById("resultado");
+    resultado.innerHTML = `<li><h2>Resultado:</h2> <strong>${amigoSorteado}</strong></li>`;
+
+}
