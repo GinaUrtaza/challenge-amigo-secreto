@@ -25,5 +25,9 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 ![amigo secreto 3](https://github.com/user-attachments/assets/60237aad-2a70-4a35-955e-00b46f880ef0)
 
+## Conclusión
+<p align="Justify">
+Fue complicado al principio ya que yo no cuento con ningún tipo de conocimiento en programación o tecnología, pero poco a poco fui poniendo en práctica lo aprendido en los cursos. Además de que investigué por mi parte en diversas fuentes para poder realizar el challenge de la mejor manera. Aún me falta mucho por aprender pero me animó bastante el poder por fin terminarlo!!! Gracias Allura Latam esta oportunidad!
+
 
 
