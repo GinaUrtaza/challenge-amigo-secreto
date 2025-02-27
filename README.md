@@ -18,3 +18,12 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 - `Validar entrada`: Si el campo del texto está vacío, el programa mostrará una alerta pidiendo un nombre valido.
 - `Visualizar lista`: Los nombres ingresados aparecerán en la lista debajo del campo de entrada.
 - `Sorteo aleatorio`: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+
+![amigo secreto 1](https://github.com/user-attachments/assets/565e17e8-7b48-41f4-94f9-745a8ff83ad7)
+
+![amigo secreto 2](https://github.com/user-attachments/assets/a765db90-29b7-4bfd-807a-ffeb80f9aef0)
+
+![amigo secreto 3](https://github.com/user-attachments/assets/60237aad-2a70-4a35-955e-00b46f880ef0)
+
+
+
